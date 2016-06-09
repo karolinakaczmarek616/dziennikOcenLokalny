@@ -1,0 +1,2 @@
+# dziennikOcenLokalny
+druga opcja
